@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-amap-location",
+  "version": "1.0.430",
+  "description": "Cordova plugin for AMap(高德) get current position",
+  "cordova": {
+    "id": "cordova-plugin-amap-location",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Tony Tao",
+  "license": "ISC"
+}
