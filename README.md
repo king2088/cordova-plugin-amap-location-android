@@ -1,5 +1,5 @@
 ### 插件介绍
-  由于某些手机的限制导致cordova-plugin-geolocation插件在android平台无法进行准确的定位，因此采用高德地图（https://lbs.amap.com/）定位SDK开发了一个高德地图的cordova插件，方便进行android端定位
+  由于某些手机的限制导致cordova-plugin-geolocation插件在android平台无法进行准确的定位，因此采用高德地图( https://lbs.amap.com/ ) 定位SDK开发了一个高德地图的cordova插件，方便进行android端定位
 
 ### 支持的平台
 仅支持android端
