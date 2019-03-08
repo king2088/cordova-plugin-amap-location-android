@@ -1,17 +1,28 @@
 {
-  "name": "cordova-plugin-amap-location",
-  "version": "1.1.440",
-  "description": "Cordova plugin for AMap(??) get current position",
+  "name": "cordova-plugin-amap-location-android",
+  "version": "1.1.450",
+  "description": "Cordova plugin for AMap(高德) get current position",
+  "main": "plugin.xml",
   "cordova": {
-    "id": "cordova-plugin-amap-location",
+    "id": "cordova-plugin-amap-location-android",
     "platforms": [
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king2088/cordova-plugin-amap-location-android.git"
+  },
   "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
+    "Amap",
+    "Android Amap location",
+    "location",
+    "安卓高德地图定位"
   ],
   "author": "Tony Tao",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/king2088/cordova-plugin-amap-location-android/issues"
+  },
+  "homepage": "https://github.com/king2088/cordova-plugin-amap-location-android#readme"
 }
