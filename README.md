@@ -7,11 +7,11 @@
 ### 插件安装
   cordova & phonegap cmd
   
-  `cordova plugin add https://github.com/king2088/cordova-plugin-amap-location.git --variable API_KEY="46461e321733f25c"`
+  `cordova plugin add https://github.com/king2088/cordova-plugin-amap-location-android.git --variable API_KEY="46461e321733f25c"`
   
   ionic cmd
   
-  `ionic cordova plugin add https://github.com/king2088/cordova-plugin-amap-location.git --variable API_KEY="46461e321733f25c"`
+  `ionic cordova plugin add https://github.com/king2088/cordova-plugin-amap-location-android.git --variable API_KEY="46461e321733f25c"`
 
 API_KEY为高德官方申请的android key
 
