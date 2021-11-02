@@ -98,6 +98,8 @@ public class AmapLocation extends CordovaPlugin{
                         json.put("longitude", location.getLongitude());
                         //纬度
                         json.put("latitude", location.getLatitude());
+                        //海拔
+                        json.put("altitude", location.getAltitude());
                         //精度
                         json.put("accuracy", location.getAccuracy());
                         //提供者
