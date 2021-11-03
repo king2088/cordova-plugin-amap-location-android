@@ -47,6 +47,6 @@
         </config-file>
         <source-file src="src/android/AmapLocation.java" target-dir="src/com/amaplocation/amap/AmapLocation" />
         <!-- 采用高德地图定位SDK4.3.0版本jar包 -->
-        <source-file src="src/android/libs/AMap_Location_V4.5.0_20190121.jar" target-dir="libs" />
+        <source-file src="src/android/libs/AMap_Location_V4.8.0_20191210.jar" target-dir="libs" />
     </platform>
 </plugin>
