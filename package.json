@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-amap-location-android",
-  "version": "1.2.450",
+  "version": "1.2.480",
   "description": "Cordova plugin for AMap(高德) get current position",
   "main": "plugin.xml",
   "cordova": {
